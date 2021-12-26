@@ -1,3 +1,3 @@
-module github.com/smart48ru/vercon/v2
+module github.com/smart48ru/vercon
 
 go 1.17
