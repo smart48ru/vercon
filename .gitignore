@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+githelp.txt
+Test/
+.golangci.yml
+golangci.yml
